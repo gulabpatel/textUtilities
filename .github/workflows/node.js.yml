@@ -2,7 +2,7 @@ name: Deploy using Github Action
 
 on: 
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 
 jobs:
   build:
